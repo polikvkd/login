@@ -1,0 +1,68 @@
+
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+ul {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    color: black;
+    background-color: rgba(211, 211, 211, 0.585);
+    width: 340px;
+    margin: auto;
+    box-shadow: 3px 2px 12px black;
+}
+.anotherlog {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+h3 {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.button1 {
+    background-color: rgb(0, 255, 60);
+    width: 146px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 3px 2px 12px black;
+    border: 1px solid green;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.nick {
+    width: 146px;
+    height: 40px;
+}
+
+input {
+    width: 200px;
+    height: 25px;
+    text-align: center;
+    font-size: 120%;
+  
+}
+
+.Clear {
+    background-color: red;
+    color: white;
+    box-shadow: 3px 2px 12px black;
+    border: 1px solid rgb(128, 0, 0);
+    
+}
